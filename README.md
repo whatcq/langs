@@ -1,2 +1,10 @@
 # langs
 languages' syntaxs
+- php
+- python
+- javascript
+- java
+- golang
+- ruby
+- C#
+- ...
